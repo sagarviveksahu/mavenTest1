@@ -8,6 +8,7 @@
   <fileSets>
     <fileSet>
       <directory>${project.basedir}/src/main/scripts</directory>
+      <outputDirectory>/</outputDirectory>
     </fileSet>
   </fileSets>
 </assembly>
